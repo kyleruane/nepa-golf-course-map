@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.569643,
+          41.59805
+        ]
+      },
+      "properties": {
+        "Name": "Skyline Golf Course",
+        "City": "Greenfield Twp",
+        "URL": "http://www.skylinegolfcourse.com/",
+        "Type": "Public Course",
+        "Holes": "9 Regular, 9 Executive",
+        "Yards": "4700",
+        "Par": "66",
+        "Price": "$",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.543415,
+          41.601452
+        ]
+      },
+      "properties": {
+        "Name": "Homestead Golf Course",
+        "City": "Carbondale",
+        "URL": "http://homesteadgc.net/",
+        "Type": "Public Course",
+        "Holes": "9 Regular, 9 Executive",
+        "Yards": "4821",
+        "Par": "67",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.559382,
+          41.581308
+        ]
+      },
+      "properties": {
+        "Name": "Sleepy Hollow Golf Course",
+        "City": "Carbondale",
+        "URL": "http://www.sleepyhollowgolf.com/",
+        "Type": "Public Course",
+        "Holes": "19",
+        "Yards": "5653",
+        "Par": "70",
+        "marker-color": "#00f"
+      }
+    },
+ ]
+}
