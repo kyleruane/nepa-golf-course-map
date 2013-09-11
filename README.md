@@ -20,7 +20,7 @@ Golf courses in and around Northeastern Pennsylvania.
      $ = < $30
     $$ = $30 - $50
    $$$ = $50 - $100
-  $$$$ = > $100  
+  $$$$ = > $100 & clubs requiring membership  
 ```
 
 Inspired by [Dave Shea's Canadian Craft Brew maps](https://github.com/mezzoblue/canadian-craft-breweries).
